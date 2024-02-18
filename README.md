@@ -1,2 +1,3 @@
-# Object-Detection
-Object detection using YOLO model
+# CV-Object-Detection
+Object detection using YOLOv3
+
